@@ -1,0 +1,3 @@
+kind create cluster --config config.yaml --name cmty-devops --kubeconfig config
+
+kubectl get pod -A --kubeconfig config
