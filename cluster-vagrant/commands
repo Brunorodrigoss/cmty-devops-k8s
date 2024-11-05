@@ -1,0 +1,4 @@
+vagrant up
+vagrant ssh master-1
+vagrant ssh worker-1
+vagrant ssh worker-2
